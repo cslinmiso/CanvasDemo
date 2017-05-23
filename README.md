@@ -2,7 +2,7 @@ Canvas Demostration
 ===
 
 ## Particle 3D
-Curtoesy of Hank Hsiao.
+Courtesy of Hank Hsiao.
 
 [Demo](http://htmlpreview.github.com/?https://github.com/cslinmiso/CanvasDemo/blob/master/particle/demo.html)
 
